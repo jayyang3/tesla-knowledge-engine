@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (Safety First!)
+.env
+
+# OS generated files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
